@@ -1,0 +1,8 @@
+task-manager
+
+# Ignorar archivos binarios
+*.exe
+*.dll
+
+# Ignorar archivos de entorno
+.env
